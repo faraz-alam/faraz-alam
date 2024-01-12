@@ -23,9 +23,8 @@ a passionate frontend developer with over 4 years of hands-on experience craftin
 <p align="left"> <a href="https://www.github.com/faraz-alam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/faraz-alam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/faraz-alam"><img src="https://github-readme-stats.vercel.app/api?username=faraz-alam&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=64748b&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="faraz-alam's GitHub stats" /></a>
+<a href="http://www.github.com/faraz-alam"><img src="https://github-readme-stats.vercel.app/api?username=faraz-alam&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=10b981&text_color=64748b&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="faraz-alam's GitHub stats" /></a>
